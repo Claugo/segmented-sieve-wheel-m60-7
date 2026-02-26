@@ -252,7 +252,7 @@ We welcome contributions in:
    - Detailed algorithm walkthroughs
    - Academic paper drafts
 
-**Please open an Issue first** to discuss larger changes.
+**Please open an Issue or start a [Discussion](https://github.com/Claugo/segmented-sieve-wheel-m60-7/discussions) first** to discuss larger changes.
 
 ---
 

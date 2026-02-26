@@ -366,7 +366,7 @@ Some combinations might be better than others:
 
 Have ideas on any of these topics?
 - Open an Issue with tag `[research]`
-- Start a Discussion (when enabled)
+- Open a [GitHub Discussion](https://github.com/Claugo/segmented-sieve-wheel-m60-7/discussions) — open and reachable!
 - Email maintainer with detailed proposal
 
 ---

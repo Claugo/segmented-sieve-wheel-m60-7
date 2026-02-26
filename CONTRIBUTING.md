@@ -178,7 +178,7 @@ If you're optimizing code:
 
 - **Have an idea?** Open an Issue first
 - **Found a bug?** Report it with details (CPU, OS, range tested)
-- **Want to discuss?** Check GitHub Discussions (when enabled)
+- **Want to discuss?** Check [GitHub Discussions](https://github.com/Claugo/segmented-sieve-wheel-m60-7/discussions) — open and reachable!
 
 ---
 
